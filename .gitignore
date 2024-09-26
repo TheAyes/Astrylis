@@ -1,0 +1,22 @@
+.cache/
+.direnv/
+
+log/
+logs/
+*.log
+
+# Minecraft specific
+mods/
+!pack/mods/
+shaderpacks/
+resourcepacks/
+saves/
+world/
+libraries/
+
+eula.txt
+ops.json
+banned-ips.json
+banned-players.json
+usercache.json
+whitelist.json

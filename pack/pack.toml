@@ -1,0 +1,13 @@
+name = "Astrylis"
+author = "Ayes"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5393c119829768bc43ff1adb1d6d0c598c189d525418add87b25891340f46c5a"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.26.4"
