@@ -2,7 +2,16 @@
 <module version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/.." />
+    <content url="file://$MODULE_DIR$/..">
+      <excludeFolder url="file://$MODULE_DIR$/../.direnv" />
+      <excludeFolder url="file://$MODULE_DIR$/../client/mods" />
+      <excludeFolder url="file://$MODULE_DIR$/../client/resourcepacks" />
+      <excludeFolder url="file://$MODULE_DIR$/../client/shaderpacks" />
+      <excludeFolder url="file://$MODULE_DIR$/.cache" />
+      <excludeFolder url="file://$MODULE_DIR$/libraries" />
+      <excludeFolder url="file://$MODULE_DIR$/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/mods" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

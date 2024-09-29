@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8797db5-ffd1-4f47-b6ac-ad864d242e39" name="Changes" comment="Init" />
+    <list default="true" id="e8797db5-ffd1-4f47-b6ac-ad864d242e39" name="Changes" comment="Init">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/index.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/architectury-api.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/copycats.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-big-cannons.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-fabric.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-let-the-adventure-begin.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-mod-trims.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-steam-n-rails.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-structures.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-train-perspective.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/create-ultimate-factory.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/fxnt-create-storage.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/mods/qsl.pw.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pack/pack.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.idea/Astrylis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/server/.idea/Astrylis.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "TheAyes"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TheAyes&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/TheAyes/Astrylis.git",
-    "accountId": "07172eff-1bd8-48ae-8c78-03246dd34107"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TheAyes/Astrylis.git&quot;,
+    &quot;accountId&quot;: &quot;07172eff-1bd8-48ae-8c78-03246dd34107&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -34,24 +52,24 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Shell Script.link.sh.executor": "Run",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/ayes/Games/Minecraft/Servers/Astrylis",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "/etc/profiles/per-user/ayes/bin/bun",
-    "nodejs_package_manager_path": "/etc/profiles/per-user/ayes/bin/bun",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Shell Script.link.sh.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ayes/Games/Minecraft/Servers/Astrylis&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;/etc/profiles/per-user/ayes/bin/bun&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;/etc/profiles/per-user/ayes/bin/bun&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/server" />

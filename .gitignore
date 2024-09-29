@@ -5,6 +5,9 @@ log/
 logs/
 *.log
 
+.env
+.envrc
+
 # Minecraft specific
 mods/
 !pack/mods/
